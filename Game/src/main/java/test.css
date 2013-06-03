@@ -1,0 +1,12 @@
+/* 
+    Document   : test
+    Created on : May 11, 2013, 1:19:24 PM
+    Author     : Dan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.root {
+     -fx-background-image: url("background.jpg");
+}
+
